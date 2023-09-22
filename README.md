@@ -2,7 +2,7 @@
 Un outil pour gérer la quête du [Dofus](http://dofus.com) Ocre pour le jeu du même nom.
 
 ## Utilisation
-Il est utilisable soit en ligne : https://traysorr.github.io/Eternelle-Moisson/
+Il est utilisable soit en ligne : https://traysorr.github.io/
 
 Soit en l'hébergeant soit même.
 
